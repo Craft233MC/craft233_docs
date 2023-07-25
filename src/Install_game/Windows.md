@@ -4,7 +4,7 @@ copyright: Copyleft © 2023 Craft233
 order: 1
 ---
 ## 安装Java
-Minecraft1.18开始要求使用Java17，所以第一步就是安装Java17  
+Minecraft1.18开始要求最低使用Java17，所以第一步就是安装Java17  
 首先打开[甲骨文Java下载页](https://www.oracle.com/cn/java/technologies/downloads/)  
 选择JDK17并选择Windows  
 ![](../.vuepress/public/docs/Windows_install_game/Java1.png)

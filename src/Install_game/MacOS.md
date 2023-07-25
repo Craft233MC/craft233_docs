@@ -4,7 +4,7 @@ copyright: Copyleft © 2023 Craft233
 order: 3
 ---
 ## 安装Java
-Minecraft1.18开始要求使用Java17，所以第一步就是安装Java17  
+Minecraft1.18开始要求最低使用Java17，所以第一步就是安装Java17  
   
 MacOS安装和Windows类似，打开[甲骨文Java下载页](https://www.oracle.com/cn/java/technologies/downloads/)  
 选择JDK17并选择MacOS,M系处理器选择"ARM64 DMG Installer",英特尔处理器选择"x64 DMG Installer"    

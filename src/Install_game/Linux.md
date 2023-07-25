@@ -4,7 +4,7 @@ copyright: Copyleft © 2023 Craft233
 order: 2
 ---
 ## 安装Java
-Minecraft1.18开始要求使用Java17，所以第一步就是安装Java17  
+Minecraft1.18开始要求最低使用Java17，所以第一步就是安装Java17  
 ### 分系统安装  
 Linux发行版一般有自己的包管理器，一般一键就可以进行Linux的安装  
 以下是一些例子  
