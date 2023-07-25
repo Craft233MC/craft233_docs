@@ -5,7 +5,7 @@ icon: book
 copyright: Copyleft © 2023 Craft233
 ---
 
-## 目录
+## 目录:安装游戏
 
 - [Windows](Windows.md)
 
