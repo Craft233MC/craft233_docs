@@ -3,8 +3,8 @@ home: true
 icon: home
 title: Craft233!
 heroImage: /logo.png
-bgImage: /assets/image/2023-07-25_11.04.41.png
-bgImageDark: /assets/image/2023-07-25_11.04.41.png
+bgImage: /assets/image/1_light.png
+bgImageDark: /assets/image/1_dark.png
 bgImageStyle:
   background-attachment: fixed
 heroText: Craft233
@@ -20,8 +20,8 @@ actions:
 highlights:
   - header: 多平台支持
 #    image: /assets/image/box.svg
-    bgImage: /assets/image/2023-07-25_11.08.24.png
-    bgImageDark: /assets/image/2023-07-25_11.08.24.png
+    bgImage: /assets/image/2_light.png
+    bgImageDark: /assets/image/2_dark.png
     highlights:
       - title: 通过Geyser插件提供基岩版支持，Java基岩双端加入
       - title: 我们的连接地址<code>mc.craft233.top</code>,端口默认
@@ -31,8 +31,8 @@ highlights:
   - header: 保持更新
     description: 在插件允许的情况下我们会尽量保持最新的Minecraft版本
 #    image: /assets/image/layout.svg
-    bgImage: /assets/image/2023-07-25_11.10.52.png
-    bgImageDark: /assets/image/2023-07-25_11.10.52.png
+    bgImage: /assets/image/3_light.png
+    bgImageDark: /assets/image/3_dark.png
 #    highlights:
 #      - title: 布局增强
 #        icon: object-group
@@ -63,8 +63,8 @@ highlights:
   - header: 友情链接
     description: 暂无，联系我们添加
 #    image: /assets/image/blog.svg
-    bgImage: /assets/image/2023-07-25_13.39.20.png
-    bgImageDark: /assets/image/2023-07-25_13.39.20.png
+    bgImage: /assets/image/4_light.png
+    bgImageDark: /assets/image/4_dark.png
 #    highlights:
 #      - title: 博客功能
 #        icon: blog
@@ -88,8 +88,8 @@ highlights:
 
   - header: 联系我们
 #    image: /assets/image/features.svg
-    bgImage: /assets/image/2023-07-25_13.39.20.png
-    bgImageDark: /assets/image/2023-07-25_13.39.20.png
+    bgImage: /assets/image/4_light.png
+    bgImageDark: /assets/image/4_dark.png
     features:
       - title: QQ
         icon: comment-dots
