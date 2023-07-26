@@ -67,7 +67,7 @@ highlights:
     bgImageDark: /assets/image/4_dark.png
     highlights:
       - title: BugCraft
-        icon: 
+        icon: /assets/image/friend_link/bugcraft.svg
         details: There are many bugs to play.
         link: https://bugcraft.org
 #
