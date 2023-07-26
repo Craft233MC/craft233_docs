@@ -86,7 +86,7 @@ highlights:
 #        details: 在时间线中浏览和通读博文
 #        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
-  - header: 相关连接
+  - header: 相关链接
 #    image: /assets/image/features.svg
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
