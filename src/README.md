@@ -61,15 +61,15 @@ highlights:
 #
 
   - header: 友情链接
-    description: 暂无，联系我们添加
+    description: 联系我们添加
 #    image: /assets/image/blog.svg
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
-#    highlights:
-#      - title: 博客功能
-#        icon: blog
-#        details: 通过文章的日期、标签和分类展示文章
-#        link: https://theme-hope.vuejs.press/zh/guide/blog/intro.html
+    highlights:
+      - title: BugCraft
+        icon: 
+        details: There are many bugs to play.
+        link: https://bugcraft.org
 #
 #      - title: 博客主页
 #        icon: home
