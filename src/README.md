@@ -101,7 +101,7 @@ highlights:
         details: dulin081682@126.com
 #        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
       - title: 状态站
-        icon: 
+        icon: /assets/image/state.svg
         details: Craft233的状态检测站，使用Uptime-Kuma搭建
         link: https://status.craft233.top/status/craft233
 
