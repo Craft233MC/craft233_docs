@@ -17,6 +17,20 @@ export default sidebar({
       link: "Join_game/",
       children: "structure",
     },
+    {
+      text: "常用指令",
+      //icon: "laptop-code",
+      prefix: "common_command/",
+      link: "common_command/",
+      children: "structure",
+    },
+    {
+      text: "常见问题",
+      //icon: "laptop-code",
+      prefix: "common_question/",
+      link: "common_question/",
+      children: "structure",
+    },
 //    "slides",
   ],
 });
