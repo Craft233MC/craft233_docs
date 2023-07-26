@@ -86,7 +86,7 @@ highlights:
 #        details: 在时间线中浏览和通读博文
 #        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
-  - header: 联系我们
+  - header: 相关连接
 #    image: /assets/image/features.svg
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
@@ -100,6 +100,10 @@ highlights:
         icon: circle-info
         details: dulin081682@126.com
 #        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+      - title: 状态站
+        icon: 
+        details: Craft233的状态检测站，使用Uptime-Kuma搭建
+        link: https://status.craft233.top/status/craft233
 
 copyright: 
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233
