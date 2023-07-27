@@ -1,11 +1,11 @@
 ---
-title: 文档
+title: 安装游戏
 index: false
 icon: book
 copyright: Copyleft © 2023 Craft233
 ---
 
-## 目录:安装游戏
+## 目录
 
 - [Windows](Windows.md)
 

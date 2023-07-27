@@ -15,7 +15,7 @@ actions:
     #type: primary
 
   - text: 文档
-    link: ./Install_game/
+    link: ./docs/
 
 highlights:
   - header: 多平台支持
