@@ -18,4 +18,6 @@ copyright: Copyleft © 2023 Craft233
 
 - [res领地指令](Residence.md)
 
+- [skin指令](skin.md)
+
 - [常见杂项](common.md)
