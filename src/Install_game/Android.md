@@ -5,7 +5,7 @@ order: 4
 ---
 ## 安装游戏 
 安卓建议使用基岩版，这里推荐两个下载站点  
-[苦力怕论坛](https://xz.klpbbs.net/)和[MineBBS](https://mc.minebbs.com/)
+[苦力怕论坛](http://mcapks.net/)和[MineBBS](https://mc.minebbs.com/)
 ::: warning 
 请下载正式版!!!   
 两个下载站点的版本只能选择一个，包括后续更新也只能从同下载源下载
