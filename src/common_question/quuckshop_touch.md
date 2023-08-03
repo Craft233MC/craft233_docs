@@ -1,7 +1,7 @@
 ---
 title: 基岩版无法使用点击箱子商店
 copyright: Copyleft © 2023 Craft233
-order: 2
+order: 3
 ---
 ## 介绍
 基岩版点击箱子箱子没有反应？
