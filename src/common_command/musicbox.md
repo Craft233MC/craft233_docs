@@ -1,3 +1,8 @@
+---
+copyright: Copyleft © 2023 Craft233
+title: musicbox指令
+order: 8
+---
 9充满了智慧的歌曲.nbs
 A Kind of Magic.nbs
 Alan Walker - Alone.nbs
