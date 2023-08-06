@@ -91,9 +91,9 @@ highlights:
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
     features:
-#      - title: QQ
-#        icon: comment-dots
-#        details: 点击加入我们的QQ群聊
+      - title: QQ
+        icon: comment-dots
+        details: 交流群830277457
 #        link: https://qm.qq.com/q/zEmIbP9c0a
 
       - title: 邮箱
