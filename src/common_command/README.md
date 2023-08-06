@@ -20,4 +20,6 @@ copyright: Copyleft © 2023 Craft233
 
 - [skin指令](skin.md)
 
+- [musicbox指令](musicbox.md)
+
 - [常见杂项](common.md)
