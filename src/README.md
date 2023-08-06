@@ -91,10 +91,10 @@ highlights:
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
     features:
-      - title: QQ
-        icon: comment-dots
-        details: 点击加入我们的QQ群聊
-        link: https://qm.qq.com/q/zEmIbP9c0a
+#      - title: QQ
+#        icon: comment-dots
+#        details: 点击加入我们的QQ群聊
+#        link: https://qm.qq.com/q/zEmIbP9c0a
 
       - title: 邮箱
         icon: circle-info
