@@ -106,9 +106,8 @@ highlights:
         link: https://status.craft233.top/status/craft233
 
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
 ---
-
 <!-- 这是项目主页的案例。你可以在这里放置你的主体内容。-->
 
 <!-- 想要使用此布局，你需要在页面 front matter 中设置 `home: true`。-->
