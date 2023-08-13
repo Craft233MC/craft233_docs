@@ -1,7 +1,7 @@
 ---
 title: 文档
 index: false
-icon: 
+icon: file
 copyright: Copyleft © 2023 Craft233
 ---
 ## 目录
