@@ -2,6 +2,7 @@
 home: true
 icon: link
 title: 友情链接
+tagline: 友情链接页
 heroImage: /logo.png
 bgImage: /assets/image/4_light.png
 bgImageDark: /assets/image/4_dark.png
@@ -10,7 +11,7 @@ bgImageStyle:
 
 highlights:
 
-  - header: 友情链接
+  - header: 
     description: 联系我们添加
 #    image: /assets/image/blog.svg
     bgImage: /assets/image/4_light.png
