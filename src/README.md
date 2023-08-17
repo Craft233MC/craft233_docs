@@ -106,7 +106,7 @@ highlights:
         link: https://status.craft233.top/status/craft233
 
       - title: 服务器宣传贴
-        icon: page
+        icon: file
         details: Craft233在苦力怕论坛上的宣传贴
         link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
 
