@@ -105,6 +105,11 @@ highlights:
         details: Craft233的状态检测站，使用Uptime-Kuma搭建
         link: https://status.craft233.top/status/craft233
 
+      - title: 服务器宣传贴
+        icon: page
+        details: Craft233在苦力怕论坛上的宣传贴
+        link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
+
 copyright: 
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
 ---
