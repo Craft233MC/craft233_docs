@@ -4,6 +4,13 @@ export default sidebar({
   "/": [
     "",
     {
+      text: "粘液科技",
+      //icon: "laptop-code",
+      prefix: "slimefun/",
+      link: "slimefun/",
+      children: "structure",
+    },
+    {
       text: "安装游戏",
       //icon: "laptop-code",
       prefix: "Install_game/",
