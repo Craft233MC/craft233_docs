@@ -13,7 +13,9 @@ order: 2
 /email recover <注册时的邮箱>
 ```
 会发送一封带有验证码的邮箱到你的账户  
-检查你的收件箱(没有请检查垃圾邮箱)
+比如说我设置的是<code>zhangsan@testmail.com</code>
+则输入<code>/email recover zhangsan@testmail.com</code>
+然后检查你的收件箱(没有请检查垃圾邮箱)
 ### 2.验证
 按照邮箱里的命令输入邮箱  
 比如
