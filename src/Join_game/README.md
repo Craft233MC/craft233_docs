@@ -8,4 +8,6 @@ copyright: Copyleft © 2023 Craft233
 
 - [Java版](Java.md)
 
--  [基岩版](Bedrock.md)
+- [基岩版](Bedrock.md)
+
+- [登陆服务器](login.md)
