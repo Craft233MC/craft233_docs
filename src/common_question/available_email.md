@@ -1,0 +1,70 @@
+---
+title: 可用邮箱
+copyright: Copyleft © 2023 Craft233
+order: 5
+---
+## 前言
+服务器注册为防止使用临时邮箱注册导致更换密码或忘记密码出现问题，开启了邮箱白名单模式。仅仅在列表内的邮箱可以注册
+## 我想用自己的企业邮箱(自定义后缀)
+你可以联系服务器管理添加，请确保你的邮箱会续费，如有变更，请联系管理更新或删除。最好提供域名注册证明或者域名注册商生成的域名证书证明可靠性。如果是从某up主之类获取的邮箱，请提供视频出处，谢谢。
+## 有哪些邮箱
+覆盖的邮箱很广，包括了很多国内和国外的邮箱。大多数由<code>Bing Chat</code>生成，手动添加了部分邮箱
+``` txt
+    - qq.com
+    - 163.com
+    - 126.com
+    - foxmail.com
+    - bugcraft.org
+    - yeah.net
+    - vip.163.com
+    - vip.126.com
+    - 188.com
+    - craft233.top
+    - vip.qq.com
+    - sina.com
+    - sina.cn
+    - vip.sina.com
+    - sohu.com
+    - vip.sohu.com
+    - aliyun.com
+    - aliyuncs.com
+    - exmail.qq.com
+    - qiye.163.com
+    - sina.net 
+    - 139.com
+    - 10086.cn
+    - 189.cn
+    - citiz.net
+    - 21cn.com
+    - eyou.com
+    - hexun.com
+    - china.com
+    - 263.com
+    - x263.com
+    - yahoo.com.cn
+    - yahoo.cn
+    # 以下为国际常用邮箱
+    - hotmail.com
+    - protonmail.com
+    - gmx.com
+    - gmx.net
+    - gmx.us
+    - mail.com
+    - consultant.com
+    - doctor.com
+    - usa.com
+    - fastmail.fm
+    - sent.com
+    - airport.net
+    - fmail.co.uk
+    - aol.com
+    - yandex.com
+    - yandex.ru
+    - gmail.com
+    - outlook.com
+    - icloud.com
+    - zoho.com
+    - yahoo.com
+    - lycos.com
+    - hushmail.com
+```
