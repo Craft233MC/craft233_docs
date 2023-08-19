@@ -13,3 +13,5 @@ copyright: Copyleft © 2023 Craft233
 - [基岩版无法使用点击箱子商店](quuckshop_touch.md)
 
 - [用户名更改指南](changename.md)
+
+- [可用邮箱](available_email.md)
