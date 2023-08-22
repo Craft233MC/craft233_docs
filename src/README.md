@@ -25,7 +25,7 @@ highlights:
     highlights:
       - title: 通过Geyser插件提供基岩版支持，Java基岩双端加入
       - title: 我们的连接地址<code>mc.craft233.top</code>,端口默认
-      - title: Java版1.19.X 1.20.X ; 基岩版1.20.X
+      - title: Java版1.12.X 1.20.X ; 基岩版1.20.X
 
 
   - header: 保持更新
