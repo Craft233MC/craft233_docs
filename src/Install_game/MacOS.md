@@ -1,6 +1,6 @@
 ---
 title: MacOS
-copyright: Copyleft © 2023 Craft233
+copyright: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
 order: 3
 ---
 ## 安装Java
