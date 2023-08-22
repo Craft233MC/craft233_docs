@@ -111,8 +111,10 @@ highlights:
         link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
 
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
 ---
+<center>"Minecraft" 以及 "我的世界" 为 Mojang AB. 的商标，"Craft233" 和本网站与 Mojang 以及 Microsoft 没有任何从属关系。</center>
+<center>"Craft233" 不是 Minecraft 官方的服务器。</center>
 <!-- 这是项目主页的案例。你可以在这里放置你的主体内容。-->
 
 <!-- 想要使用此布局，你需要在页面 front matter 中设置 `home: true`。-->
