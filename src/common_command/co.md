@@ -4,7 +4,7 @@ title: co指令
 order: 4
 ---
 ## 介绍
-co由插件coreproject提供，用于查询/还原方块，对普通玩家开放的子指令包括<code>help inspect lookup near</code>  
+co由插件coreproject提供，用于查询/还原方块，对普通玩家开放的子指令包括<code>help inspect ~~lookup~~ near</code>  
 可用于追溯恶意破坏
 ::: info
 lookup子指令文档由Bing Chat生成
@@ -26,7 +26,7 @@ lookup子指令文档由Bing Chat生成
 /co i
 ```
 
-## lookup子指令  
+## ~~lookup子指令~~(服务器内已禁用)  
 这个在帮助菜单里可以看到"高级方块数据查询"
 ### 介绍
 <code>/co lookup</code>是用于查询一个区域或一个玩家的操作记录的子指令。  
