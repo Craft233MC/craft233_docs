@@ -5,6 +5,9 @@ order: 1
 ---
 ## 包含指令
 服务器tp指令系列包括<code>/tpa /tpaccept /tpahere /tpdeny /tpignore</code>  
+::: 获取玩家名
+由于聊天插件的过滤，有些玩家名字部分可能会变成已屏蔽的词。准确的玩家名请参考玩家列表或者使用指令<code>/glist</code>或者<code>/list</code>获取
+:::
 
 
 ## /tpa
