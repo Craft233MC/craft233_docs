@@ -17,6 +17,9 @@ actions:
   - text: 文档
     link: ./docs/
 
+  - text: 更改日志
+    link: ./changes/
+
 highlights:
   - header: 多平台支持
 #    image: /assets/image/box.svg
