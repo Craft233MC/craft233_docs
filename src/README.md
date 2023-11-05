@@ -114,7 +114,7 @@ highlights:
         link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
       
       - title: 公开仓库
-        icon:
+        icon: /assets/image/github.svg
         details: Craft233的公开仓库，可以获取到一些文件的汉化及其他东西
         link: https://github.com/orgs/Craft233MC/
 
