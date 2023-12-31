@@ -5,6 +5,9 @@ icon: list
 copyright: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
 ---
 ## 2023
+### 2023-11-30 版本升级
+1.服务端版本从1.20.2升级到了1.20.4(leaves)  
+2.代理端升级到3.3.0(velocity)  
 ### 2023-11-4 附魔综合修复
 修复了由插件<code>疯狂附魔</code>配置文件老旧导致的很多问题  
 重新打开mcmmo的双倍掉落
