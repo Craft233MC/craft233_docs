@@ -17,6 +17,12 @@ actions:
   - text: 文档
     link: ./docs/
 
+  - text: 更改日志
+    link: ./changes/
+ 
+  - text: 捐赠？
+    link: ./donate/
+
 highlights:
   - header: 多平台支持
 #    image: /assets/image/box.svg
@@ -109,6 +115,11 @@ highlights:
         icon: file
         details: Craft233在苦力怕论坛上的宣传贴
         link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
+      
+      - title: 公开仓库
+        icon: /assets/image/github.svg
+        details: Craft233的公开仓库，可以获取到一些文件的汉化及其他东西
+        link: https://github.com/orgs/Craft233MC/
 
 copyright: 
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
