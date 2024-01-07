@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Neokoni",
-    url: "https://blog.sekaom.top",
+    url: "https://neokoni.moe",
   },
 
   iconAssets: "fontawesome-with-brands",

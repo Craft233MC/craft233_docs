@@ -19,6 +19,9 @@ actions:
 
   - text: 更改日志
     link: ./changes/
+ 
+  - text: 捐赠？
+    link: ./donate/
 
 highlights:
   - header: 多平台支持

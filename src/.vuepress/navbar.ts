@@ -5,6 +5,7 @@ export default navbar([
   "/docs/",
   "/friend_link/",
   "/changes/",
+  "/donate/",
 
    
 //  {
