@@ -106,7 +106,7 @@ highlights:
       - title: 状态站
         icon: /assets/image/state.svg
         details: Craft233的状态检测站，使用Uptime-Kuma搭建
-        link: https://status.craft233.top/status/craft233
+        link: https://status.craft233.top
 
       - title: 服务器宣传贴
         icon: file
