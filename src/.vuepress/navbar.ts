@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/docs/",
-  //"/friend_link/",
+  "/friend_link/",
   "/changes/",
   "/donate/",
 
