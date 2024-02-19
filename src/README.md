@@ -66,16 +66,16 @@ highlights:
 #        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 #
 
-#  - header: 友情链接
-#    description: 联系我们添加
-#    image: /assets/image/blog.svg
-#    bgImage: /assets/image/4_light.png
-#    bgImageDark: /assets/image/4_dark.png
-#    highlights:
-#      - title: BugCraft
-#        icon: /assets/image/friend_link/bugcraft.svg
-#        details: There are many bugs to play.
-#        link: https://bugcraft.org
+  - header: 友情链接
+    description: 联系我们添加
+    image: /assets/image/blog.svg
+    bgImage: /assets/image/4_light.png
+    bgImageDark: /assets/image/4_dark.png
+    highlights:
+      - title: BugCraft
+        icon: /assets/image/friend_link/bugcraft.svg
+        details: There are many bugs to play.
+        link: https://bugcraft.org
 #
 #      - title: 博客主页
 #        icon: home
