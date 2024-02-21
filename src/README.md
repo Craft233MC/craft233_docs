@@ -20,6 +20,9 @@ actions:
   - text: 更改日志
     link: ./changes/
  
+  - text: 存档获取
+    link: ./archive/
+
   - text: 捐赠？
     link: ./donate/
 
@@ -68,7 +71,7 @@ highlights:
 
   - header: 友情链接
     description: 联系我们添加
-    image: /assets/image/blog.svg
+    #image: /assets/image/blog.svg
     bgImage: /assets/image/4_light.png
     bgImageDark: /assets/image/4_dark.png
     highlights:
