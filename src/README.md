@@ -17,6 +17,9 @@ actions:
   - text: 文档
     link: ./docs/
 
+  - text: 皮肤站
+    link: https://skin.craft233.top
+
   - text: 更改日志
     link: ./changes/
  
@@ -123,6 +126,11 @@ highlights:
         icon: /assets/image/github.svg
         details: Craft233的公开仓库，可以获取到一些文件的汉化及其他东西
         link: https://github.com/orgs/Craft233MC/
+
+      - title: Craft233 Skin
+        icon: /assets/image/github.svg
+        details: Craft233的皮肤站，主要用于在服务器中配合<code>bskin</code>指令使用
+        link: https://skin.craft233.top
 
 copyright: 
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
