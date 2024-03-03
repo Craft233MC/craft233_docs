@@ -128,7 +128,7 @@ highlights:
         link: https://github.com/orgs/Craft233MC/
 
       - title: Craft233 Skin
-        icon: /assets/image/github.svg
+        icon: 
         details: Craft233的皮肤站，主要用于在服务器中配合<code>bskin</code>指令使用
         link: https://skin.craft233.top
 
