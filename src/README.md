@@ -110,12 +110,12 @@ highlights:
 
       - title: 邮箱
         icon: circle-info
-        details: dulin081682@126.com
+        details: me@neokoni.moe
 #        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
       - title: 状态站
         icon: /assets/image/state.svg
         details: Craft233的状态检测站，使用Uptime-Kuma搭建
-        link: https://status.craft233.top
+        link: https://status.craft233.top/status/craft233
 
       - title: 服务器宣传贴
         icon: file
@@ -133,7 +133,7 @@ highlights:
         link: https://skin.craft233.top
 
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023~2024 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
 ---
 <center>"Minecraft" 以及 "我的世界" 为 Mojang AB. 的商标，"Craft233" 和本网站与 Mojang 以及 Microsoft 没有任何从属关系。</center>
 <center>"Craft233" 不是 Minecraft 官方的服务器。</center>
