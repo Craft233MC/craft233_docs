@@ -1,8 +1,19 @@
 ---
 copyright: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
-title: skin皮肤指令
+title: skin与bskin皮肤指令
 order: 7
 ---
+# bskin指令
+## 介绍
+bskin指令提供一种设置皮肤站皮肤的方法，不需要设置外置登陆也可使用皮肤站皮肤
+## 使用
+仅一个指令可用与设置皮肤，只需要/bskin set <皮肤站玩家名>   
+Craft233使用自搭建皮肤站作为自定义皮肤源, [点击传送](https://skin.craft233.top)
+## 例子
+假如在皮肤站设置的玩家名为<code>zhangsan</code>  
+那么实际的指令就是<code>/bskin set zhangsan</code>
+
+# skin指令
 ## 介绍
 skin指令是啥？这里引用一下spigot插件的介绍  
 ::: info
