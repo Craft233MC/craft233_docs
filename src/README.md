@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: Craft233!
+title: 文档
 heroImage: /logo.png
 bgImage: /assets/image/1_light.png
 bgImageDark: /assets/image/1_dark.png
