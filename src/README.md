@@ -72,16 +72,16 @@ highlights:
 #        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 #
 
-  - header: 友情链接
-    description: 联系我们添加
-    #image: /assets/image/blog.svg
-    bgImage: /assets/image/4_light.png
-    bgImageDark: /assets/image/4_dark.png
-    highlights:
-      - title: BugCraft
-        icon: /assets/image/friend_link/bugcraft.svg
-        details: There are many bugs to play.
-        link: https://bugcraft.org
+#  - header: 友情链接
+#    description: 联系我们添加
+#    #image: /assets/image/blog.svg
+#    bgImage: /assets/image/4_light.png
+#    bgImageDark: /assets/image/4_dark.png
+#    highlights:
+#      - title: BugCraft
+#        icon: /assets/image/friend_link/bugcraft.svg
+#        details: There are many bugs to play.
+#        link: https://bugcraft.org
 #
 #      - title: 博客主页
 #        icon: home
@@ -120,7 +120,7 @@ highlights:
       - title: 服务器宣传贴
         icon: file
         details: Craft233在苦力怕论坛上的宣传贴
-        link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
+        link: https://klpbbs.com/thread-135065-1-1.html
       
       - title: 公开仓库
         icon: /assets/image/github.svg
