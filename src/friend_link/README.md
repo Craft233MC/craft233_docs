@@ -48,7 +48,7 @@ highlights:
 #        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
 
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a> <a href='https://beian.miit.gov.cn/' target='_blank'>蜀ICP备2024074700号-1</a>
 ---
 <center>"Minecraft" 以及 "我的世界" 为 Mojang AB. 的商标，"Craft233" 和本网站与 Mojang 以及 Microsoft 没有任何从属关系。</center>
 <center>"Craft233" 不是 Minecraft 官方的服务器。</center>

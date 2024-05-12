@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: Craft233!
+title: 文档
 heroImage: /logo.png
 bgImage: /assets/image/1_light.png
 bgImageDark: /assets/image/1_dark.png
 bgImageStyle:
   background-attachment: fixed
 heroText: Craft233
-tagline: 欢迎来到Craft233的网站兼文档站！
+tagline: 欢迎来到Craft233的文档站！
 actions:
   #- text: 使用指南 💡
     #link: ./demo/
@@ -72,16 +72,16 @@ highlights:
 #        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 #
 
-  - header: 友情链接
-    description: 联系我们添加
-    #image: /assets/image/blog.svg
-    bgImage: /assets/image/4_light.png
-    bgImageDark: /assets/image/4_dark.png
-    highlights:
-      - title: BugCraft
-        icon: /assets/image/friend_link/bugcraft.svg
-        details: There are many bugs to play.
-        link: https://bugcraft.org
+#  - header: 友情链接
+#    description: 联系我们添加
+#    #image: /assets/image/blog.svg
+#    bgImage: /assets/image/4_light.png
+#    bgImageDark: /assets/image/4_dark.png
+#    highlights:
+#      - title: BugCraft
+#        icon: /assets/image/friend_link/bugcraft.svg
+#        details: There are many bugs to play.
+#        link: https://bugcraft.org
 #
 #      - title: 博客主页
 #        icon: home
@@ -120,7 +120,7 @@ highlights:
       - title: 服务器宣传贴
         icon: file
         details: Craft233在苦力怕论坛上的宣传贴
-        link: https://klpbbs.com/forum.php?mod=viewthread&tid=107560&fromuid=549914
+        link: https://klpbbs.com/thread-135065-1-1.html
       
       - title: 公开仓库
         icon: /assets/image/github.svg
@@ -133,7 +133,7 @@ highlights:
         link: https://skin.craft233.top
 
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023~2024 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a>  
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyleft© 2023~2024 Craft233  <a href="https://icp.gov.moe/?keyword=20232336" target="_blank">萌ICP备20232336号</a> <a href='https://beian.miit.gov.cn/' target='_blank'>蜀ICP备2024074700号-1</a>
 ---
 <center>"Minecraft" 以及 "我的世界" 为 Mojang AB. 的商标，"Craft233" 和本网站与 Mojang 以及 Microsoft 没有任何从属关系。</center>
 <center>"Craft233" 不是 Minecraft 官方的服务器。</center>
