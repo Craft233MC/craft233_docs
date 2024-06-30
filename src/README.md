@@ -8,7 +8,7 @@ bgImageDark: /assets/image/1_dark.png
 bgImageStyle:
   background-attachment: fixed
 heroText: Craft233
-tagline: 欢迎来到Craft233的文档站！
+tagline: 欢迎来到Craft233的文档站！tips:此文档已有较长时间未更新，请自行甄别内容可用性
 actions:
   #- text: 使用指南 💡
     #link: ./demo/
