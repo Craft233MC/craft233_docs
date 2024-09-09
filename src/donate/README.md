@@ -17,3 +17,4 @@ copyright: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">V
 | gjyyds | 30         | eee             |
 |SuMaple | 50         | 希望我们服能越来越好啊！！！|
 |CREATORKARIMO| 5     | 阿巴             |
+|Ygbs| 5     |              |
