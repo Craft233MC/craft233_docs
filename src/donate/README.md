@@ -18,3 +18,4 @@ copyright: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">V
 |SuMaple | 50         | 希望我们服能越来越好啊！！！|
 |CREATORKARIMO| 5     | 阿巴             |
 |Ygbs.   | 10.        |  Ygbs here.     |
+|floodluo| 5.         |我很爱这个服务器希望他能一直有|
